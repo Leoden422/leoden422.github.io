@@ -6,6 +6,7 @@
  * service worker scripting
  * ========================================================== */
 
+
 // CACHE_NAMESPACE
 // CacheStorage is shared between all sites under same domain.
 // A namespace can prevent potential name conflicts and mis-deletion.
